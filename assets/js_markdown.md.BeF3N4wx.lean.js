@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a2 as s}from"./chunks/framework.BvpWiaHw.js";const m=JSON.parse('{"title":"markdown","description":"","frontmatter":{},"headers":[],"relativePath":"js/markdown.md","filePath":"js/markdown.md"}'),n={name:"js/markdown.md"},l=s("",8),i=[l];function o(d,r,h,c,p,k){return e(),a("div",null,i)}const _=t(n,[["render",o]]);export{m as __pageData,_ as default};

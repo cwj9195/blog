@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BvpWiaHw.js";const g=JSON.parse('{"title":"运维","description":"","frontmatter":{},"headers":[],"relativePath":"js/运维.md","filePath":"js/运维.md"}'),l={name:"js/运维.md"},p=n("",12),e=[p];function h(t,k,r,E,d,c){return a(),i("div",null,e)}const y=s(l,[["render",h]]);export{g as __pageData,y as default};
