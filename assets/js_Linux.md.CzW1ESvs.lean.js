@@ -1,0 +1,1 @@
+import{_ as e,c as l,o,a4 as i}from"./chunks/framework.JknIMk6Q.js";const b=JSON.parse('{"title":"Linux","description":"","frontmatter":{},"headers":[],"relativePath":"js/Linux.md","filePath":"js/Linux.md"}'),a={name:"js/Linux.md"},r=i("",22),c=[r];function t(d,s,n,h,u,p){return o(),l("div",null,c)}const w=e(a,[["render",t]]);export{b as __pageData,w as default};
