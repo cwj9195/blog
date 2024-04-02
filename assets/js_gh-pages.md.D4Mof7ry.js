@@ -24,5 +24,5 @@ import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BvpWiaHw.js";const o
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># git push originGitee main:master -f</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># cd - #回到项目根目录</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># rm -rf docs/.vitepress/dist #删除打包文件</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># rm -rf docs/.vitepress/dist #删除打包文件 </span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># ======================================================</span></span></code></pre></div>`,6),h=[p];function e(l,k,g,r,d,F){return a(),i("div",null,h)}const y=s(t,[["render",e]]);export{o as __pageData,y as default};
