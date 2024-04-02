@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BvpWiaHw.js";const g=JSON.parse('{"title":"node包管理器","description":"","frontmatter":{},"headers":[],"relativePath":"js/node包管理器.md","filePath":"js/node包管理器.md"}'),e={name:"js/node包管理器.md"},p=n("",36),l=[p];function t(h,d,k,r,o,c){return a(),i("div",null,l)}const m=s(e,[["render",t]]);export{g as __pageData,m as default};

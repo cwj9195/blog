@@ -1,1 +1,0 @@
-import{_ as s,c as e,o as a,a2 as i}from"./chunks/framework.BvpWiaHw.js";const g=JSON.parse('{"title":"vscode","description":"","frontmatter":{},"headers":[],"relativePath":"js/vscode.md","filePath":"js/vscode.md"}'),t={name:"js/vscode.md"},n=i("",28),l=[n];function o(r,h,p,c,d,u){return a(),e("div",null,l)}const E=s(t,[["render",o]]);export{g as __pageData,E as default};
