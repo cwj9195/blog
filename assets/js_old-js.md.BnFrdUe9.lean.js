@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BvpWiaHw.js";const c=JSON.parse('{"title":"前端","description":"","frontmatter":{},"headers":[],"relativePath":"js/old-js.md","filePath":"js/old-js.md"}'),l={name:"js/old-js.md"},p=n("",25),h=[p];function t(k,e,E,r,d,g){return a(),i("div",null,h)}const o=s(l,[["render",t]]);export{c as __pageData,o as default};

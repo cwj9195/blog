@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a2 as a}from"./chunks/framework.BvpWiaHw.js";const h=JSON.parse('{"title":"js","description":"","frontmatter":{},"headers":[],"relativePath":"js/js.md","filePath":"js/js.md"}'),c={name:"js/js.md"},i=a("",6),l=[i];function r(d,n,s,p,u,_){return t(),o("div",null,l)}const m=e(c,[["render",r]]);export{h as __pageData,m as default};

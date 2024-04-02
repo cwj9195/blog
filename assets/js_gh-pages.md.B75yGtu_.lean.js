@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BvpWiaHw.js";const F=JSON.parse('{"title":"起步","description":"","frontmatter":{},"headers":[],"relativePath":"js/gh-pages.md","filePath":"js/gh-pages.md"}'),t={name:"js/gh-pages.md"},p=n("",6),e=[p];function h(l,k,r,g,d,c){return a(),i("div",null,e)}const y=s(t,[["render",h]]);export{F as __pageData,y as default};
