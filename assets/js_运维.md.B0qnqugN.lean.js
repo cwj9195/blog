@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.JknIMk6Q.js";const g=JSON.parse('{"title":"运维","description":"","frontmatter":{},"headers":[],"relativePath":"js/运维.md","filePath":"js/运维.md"}'),l={name:"js/运维.md"},p=n("",25),h=[p];function e(t,k,r,d,c,o){return a(),i("div",null,h)}const y=s(l,[["render",e]]);export{g as __pageData,y as default};

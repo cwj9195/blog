@@ -1,1 +1,0 @@
-import{_ as o,c as e,o as t,a4 as r}from"./chunks/framework.JknIMk6Q.js";const m=JSON.parse('{"title":"低代码","description":"","frontmatter":{},"headers":[],"relativePath":"js/低代码.md","filePath":"js/低代码.md"}'),a={name:"js/低代码.md"},s=r("",19),n=[s];function c(d,p,i,l,_,g){return t(),e("div",null,n)}const u=o(a,[["render",c]]);export{m as __pageData,u as default};
