@@ -1,0 +1,1 @@
+import{_ as i,c as s,o as a,a4 as e}from"./chunks/framework.JknIMk6Q.js";const u=JSON.parse('{"title":"操作系统","description":"","frontmatter":{},"headers":[],"relativePath":"js/system.md","filePath":"js/system.md"}'),l={name:"js/system.md"},t=e("",32),h=[t];function n(o,r,d,p,c,k){return a(),s("div",null,h)}const g=i(l,[["render",n]]);export{u as __pageData,g as default};
