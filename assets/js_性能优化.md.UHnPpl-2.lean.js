@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as l,a4 as i}from"./chunks/framework.JknIMk6Q.js";const f=JSON.parse('{"title":"性能","description":"","frontmatter":{},"headers":[],"relativePath":"js/性能优化.md","filePath":"js/性能优化.md"}'),r={name:"js/性能优化.md"},t=i("",33),o=[t];function d(c,s,n,h,m,u){return l(),a("div",null,o)}const _=e(r,[["render",d]]);export{f as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.JknIMk6Q.js";const o=JSON.parse('{"title":"起步","description":"","frontmatter":{},"headers":[],"relativePath":"js/gh-pages.md","filePath":"js/gh-pages.md"}'),t={name:"js/gh-pages.md"},e=n("",9),p=[e];function h(l,k,r,g,d,F){return a(),i("div",null,p)}const y=s(t,[["render",h]]);export{o as __pageData,y as default};

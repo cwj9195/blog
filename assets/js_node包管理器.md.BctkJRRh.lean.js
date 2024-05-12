@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a4 as e}from"./chunks/framework.JknIMk6Q.js";const u=JSON.parse('{"title":"node包管理器","description":"","frontmatter":{},"headers":[],"relativePath":"js/node包管理器.md","filePath":"js/node包管理器.md"}'),n={name:"js/node包管理器.md"},l=e("",43),p=[l];function t(o,h,r,d,c,k){return a(),i("div",null,p)}const g=s(n,[["render",t]]);export{u as __pageData,g as default};
