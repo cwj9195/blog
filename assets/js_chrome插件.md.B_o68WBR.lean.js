@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as r,a4 as a}from"./chunks/framework.JknIMk6Q.js";const f=JSON.parse('{"title":"chrome插件","description":"","frontmatter":{},"headers":[],"relativePath":"js/chrome插件.md","filePath":"js/chrome插件.md"}'),t={name:"js/chrome插件.md"},c=a("",3),s=[c];function h(l,m,n,i,p,_){return r(),o("div",null,s)}const b=e(t,[["render",h]]);export{f as __pageData,b as default};
