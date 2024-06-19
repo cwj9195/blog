@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as t}from"./chunks/framework.JknIMk6Q.js";const F=JSON.parse('{"title":"起步","description":"","frontmatter":{},"headers":[],"relativePath":"js/echart.md","filePath":"js/echart.md"}'),n={name:"js/echart.md"},h=t("",20),l=[h];function k(p,E,e,r,d,g){return a(),i("div",null,l)}const o=s(n,[["render",k]]);export{F as __pageData,o as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.JknIMk6Q.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mac/乱七八糟的技巧.md","filePath":"mac/乱七八糟的技巧.md"}'),t={name:"mac/乱七八糟的技巧.md"},h=n("",2),l=[h];function k(E,p,e,r,g,d){return a(),i("div",null,l)}const o=s(t,[["render",k]]);export{c as __pageData,o as default};

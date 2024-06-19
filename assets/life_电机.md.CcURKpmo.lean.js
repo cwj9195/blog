@@ -1,0 +1,1 @@
+import{_ as l,c as e,o as a,a4 as i}from"./chunks/framework.JknIMk6Q.js";const f=JSON.parse('{"title":"电*","description":"","frontmatter":{},"headers":[],"relativePath":"life/电机.md","filePath":"life/电机.md"}'),o={name:"life/电机.md"},t=i("",14),r=[t];function c(d,n,u,h,s,_){return a(),e("div",null,r)}const m=l(o,[["render",c]]);export{f as __pageData,m as default};

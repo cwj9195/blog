@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a4 as r}from"./chunks/framework.JknIMk6Q.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mac/资源.md","filePath":"mac/资源.md"}'),n={name:"mac/资源.md"},c=r("",8),h=[c];function o(p,s,l,i,m,w){return t(),a("div",null,h)}const d=e(n,[["render",o]]);export{_ as __pageData,d as default};

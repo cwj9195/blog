@@ -1,0 +1,1 @@
+import{_ as i,c as s,o as a,a4 as l}from"./chunks/framework.JknIMk6Q.js";const E=JSON.parse('{"title":"控制台","description":"","frontmatter":{},"headers":[],"relativePath":"js/调试.md","filePath":"js/调试.md"}'),e={name:"js/调试.md"},t=l("",18),n=[t];function o(h,r,p,d,k,c){return a(),s("div",null,n)}const g=i(e,[["render",o]]);export{E as __pageData,g as default};
