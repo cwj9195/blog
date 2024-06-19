@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s,a4 as r}from"./chunks/framework.JknIMk6Q.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"js/vitePress.md","filePath":"js/vitePress.md"}'),a={name:"js/vitePress.md"},i=r("",3),o=[i];function n(_,d,c,p,h,l){return s(),t("div",null,o)}const f=e(a,[["render",n]]);export{u as __pageData,f as default};

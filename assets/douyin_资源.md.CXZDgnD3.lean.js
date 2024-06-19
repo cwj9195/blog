@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a4 as r}from"./chunks/framework.JknIMk6Q.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"douyin/资源.md","filePath":"douyin/资源.md"}'),n={name:"douyin/资源.md"},o=r("",4),s=[o];function c(p,i,_,d,m,l){return a(),t("div",null,s)}const b=e(n,[["render",c]]);export{u as __pageData,b as default};

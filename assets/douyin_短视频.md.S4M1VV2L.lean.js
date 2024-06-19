@@ -1,1 +1,0 @@
-import{_ as l,c as o,o as i,a4 as e}from"./chunks/framework.JknIMk6Q.js";const q=JSON.parse('{"title":"直播","description":"","frontmatter":{},"headers":[],"relativePath":"douyin/短视频.md","filePath":"douyin/短视频.md"}'),a={name:"douyin/短视频.md"},t=e("",6),c=[t];function r(u,n,d,h,s,_){return i(),o("div",null,c)}const p=l(a,[["render",r]]);export{q as __pageData,p as default};
