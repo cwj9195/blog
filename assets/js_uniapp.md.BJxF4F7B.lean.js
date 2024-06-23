@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a4 as l}from"./chunks/framework.JknIMk6Q.js";const g=JSON.parse('{"title":"vue","description":"","frontmatter":{},"headers":[],"relativePath":"js/uniapp.md","filePath":"js/uniapp.md"}'),n={name:"js/uniapp.md"},e=l("",55),t=[e];function p(h,k,r,d,o,E){return a(),i("div",null,t)}const u=s(n,[["render",p]]);export{g as __pageData,u as default};

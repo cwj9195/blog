@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as a,a4 as t}from"./chunks/framework.JknIMk6Q.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"js/link.md","filePath":"js/link.md"}'),o={name:"js/link.md"},n=t("",14),l=[n];function p(s,h,c,i,_,f){return a(),r("div",null,l)}const b=e(o,[["render",p]]);export{m as __pageData,b as default};

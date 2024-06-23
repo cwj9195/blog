@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.JknIMk6Q.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mac/pd.md","filePath":"mac/pd.md"}'),o={name:"mac/pd.md"},p=r("",6),s=[p];function l(n,_,c,i,d,m){return t(),e("div",null,s)}const w=a(o,[["render",l]]);export{f as __pageData,w as default};
