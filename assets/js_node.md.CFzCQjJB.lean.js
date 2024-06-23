@@ -1,0 +1,1 @@
+import{_ as i,c as s,o as a,a4 as l}from"./chunks/framework.JknIMk6Q.js";const u=JSON.parse('{"title":"node","description":"","frontmatter":{},"headers":[],"relativePath":"js/node.md","filePath":"js/node.md"}'),n={name:"js/node.md"},e=l("",25),t=[e];function h(p,o,r,k,d,g){return a(),s("div",null,t)}const m=i(n,[["render",h]]);export{u as __pageData,m as default};

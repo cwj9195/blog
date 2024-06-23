@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a4 as a}from"./chunks/framework.JknIMk6Q.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mac/vpn.md","filePath":"mac/vpn.md"}'),o={name:"mac/vpn.md"},l=a("",4),n=[l];function i(h,s,p,c,f,g){return t(),r("div",null,n)}const d=e(o,[["render",i]]);export{m as __pageData,d as default};

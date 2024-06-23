@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n,a4 as a}from"./chunks/framework.JknIMk6Q.js";const u=JSON.parse('{"title":"扩展组件库","description":"","frontmatter":{},"headers":[],"relativePath":"js/component.md","filePath":"js/component.md"}'),l={name:"js/component.md"},o=a("",10),i=[o];function r(c,p,s,d,_,m){return n(),t("div",null,i)}const f=e(l,[["render",r]]);export{u as __pageData,f as default};

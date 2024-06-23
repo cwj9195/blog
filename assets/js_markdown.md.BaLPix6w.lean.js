@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a4 as t}from"./chunks/framework.JknIMk6Q.js";const c=JSON.parse('{"title":"markdown","description":"","frontmatter":{},"headers":[],"relativePath":"js/markdown.md","filePath":"js/markdown.md"}'),n={name:"js/markdown.md"},e=t("",16),l=[e];function h(p,k,r,d,o,E){return i(),a("div",null,l)}const y=s(n,[["render",h]]);export{c as __pageData,y as default};

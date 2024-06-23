@@ -1,0 +1,1 @@
+import{_ as r,c as e,o as t,a4 as n}from"./chunks/framework.JknIMk6Q.js";const p=JSON.parse('{"title":"1","description":"","frontmatter":{},"headers":[],"relativePath":"douyin/直播.md","filePath":"douyin/直播.md"}'),i={name:"douyin/直播.md"},a=n("",24),o=[a];function l(h,f,m,c,d,s){return t(),e("div",null,o)}const v=r(i,[["render",l]]);export{p as __pageData,v as default};
