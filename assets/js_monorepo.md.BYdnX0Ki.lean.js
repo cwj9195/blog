@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as i,a4 as e}from"./chunks/framework.JknIMk6Q.js";const g=JSON.parse('{"title":"monorepo","description":"","frontmatter":{},"headers":[],"relativePath":"js/monorepo.md","filePath":"js/monorepo.md"}'),n={name:"js/monorepo.md"},t=e("",17),p=[t];function l(o,r,h,k,d,c){return i(),a("div",null,p)}const E=s(n,[["render",l]]);export{g as __pageData,E as default};
