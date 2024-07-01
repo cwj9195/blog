@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a4 as o}from"./chunks/framework.JknIMk6Q.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"douyin/chatgpt.md","filePath":"douyin/chatgpt.md"}'),i={name:"douyin/chatgpt.md"},l=o("",7),c=[l];function r(d,h,s,n,u,_){return a(),t("div",null,c)}const b=e(i,[["render",r]]);export{m as __pageData,b as default};
